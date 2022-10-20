@@ -1,4 +1,4 @@
-![](https://github.com/Matthewpco/WP-Plugin-API-Posts/blob/main/WP-Plugin-API-Posts.jpg)
+![](https://github.com/Matthewpco/WP-Plugin-API-Posts/blob/main/wp-plugin-restapi.jpg)
 
 # This is a custom WordPress plugin to get REST API data from a WordPress site and display it using a headless setup for custom design and development.
 
@@ -21,4 +21,4 @@
 - Mobile Responsive
   <br>
 
-![](https://github.com/Matthewpco/WP-Plugin-API-Posts/blob/main/Wp-Plugin-API-Posts-Mobile.jpg)
+![](https://github.com/Matthewpco/WP-Plugin-API-Posts/blob/main/wp-plugin-restapi-mobile.jpg)
