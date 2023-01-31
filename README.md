@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ Introduction
 
-- This plugin is made to contact a WordPress REST API and display data such as posts with a featured image through a headless setup with a flex row layout for desktop, and a responsive column layout for mobile.
+- This plugin is made to contact a WordPress REST API and display data such as posts with a featured image through a headless setup with a flex row layout for desktop, and a responsive column layout for mobile. Headless setups can be achieved using the WP Rest API and latest JavaScript Fetch functionality. 
 
 <br>
 
@@ -18,7 +18,7 @@
 - PHP
 - WordPress
 - REST API
-- Mobile Responsive
+- Plugin Development
   <br>
 
 ![](https://github.com/Matthewpco/WP-Plugin-API-Posts/blob/main/wp-plugin-restapi-mobile.jpg)
